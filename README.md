@@ -4,10 +4,6 @@
 
 For this project, I used exploratory data analysis to generate insights for a business stakeholder. The business problem is described below.
 
-[Notebook PDF file] (travis_jup_notebook_p1.pdf)
-[Notebook file] (/travis_jup_notebook.ipynb)
-[Presentation File] (./Flatiron_P1_Presentation.pdf)
-
 
 ## Business Problem
 
@@ -57,6 +53,10 @@ Finally, if Microsoft wants to make highly-rated movies, they should consider ma
 
 To consider multiple factors in the decision, the company should focus on Adventure, Animation, and Action, which all score highly in almost all of the categories considered. They should further look to hire one of the 22 directors on the list of most consistantly profitable directors. 
 
+# Further Information
+See the full analysis in the [Jupyter Notebook](./travis_jup_notebook.ipynb) or review this [presentation](./Flatiron_P1_Presentation.pdf).
+
+For additional info, contact Travis Royce at [traviscroyce@gmail.com](mailto:traviscroyce@gmail.com)
 
 
 
