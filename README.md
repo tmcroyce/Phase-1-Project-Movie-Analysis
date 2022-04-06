@@ -4,6 +4,11 @@
 
 For this project, I used exploratory data analysis to generate insights for a business stakeholder. The business problem is described below.
 
+[Notebook PDF file] (./travis_jup_notebook_p1.pdf)
+[Notebook file] (./travis_jup_notebook.ipynb)
+[Presentation File] (./Flatiron_P1_Presentation.pdf)
+
+
 ## Business Problem
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. This analys explores what types of films are currently doing the best at the box office. This can be translated into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
@@ -56,4 +61,4 @@ To consider multiple factors in the decision, the company should focus on Advent
 
 
 
-   * Easily-located notebook and presentation linked in the README
+
