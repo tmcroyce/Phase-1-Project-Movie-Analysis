@@ -5,7 +5,7 @@
 For this project, I used exploratory data analysis to generate insights for a business stakeholder. The business problem is described below.
 
 [Notebook PDF file] (travis_jup_notebook_p1.pdf)
-[Notebook file] (./travis_jup_notebook.ipynb)
+[Notebook file] (/travis_jup_notebook.ipynb)
 [Presentation File] (./Flatiron_P1_Presentation.pdf)
 
 
